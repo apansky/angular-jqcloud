@@ -12,7 +12,8 @@
     "homepage": "http://www.strangeplanet.fr"
   },
    "dependencies": {
-    "angular": "1.x"
+    "angular": "1.x",
+    "jqcloud-npm": "3.0.2"
   },
   "license": "MIT",
   "homepage": "https://github.com/mistic100/angular-jqcloud",
